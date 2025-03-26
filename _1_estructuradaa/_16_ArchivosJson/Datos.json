@@ -1,0 +1,34 @@
+{
+  "personas": [
+    {
+      "nombre": "Federico Peluche",
+      "edad": 45,
+      "ciudad": "Sn Martin Texmelucan",
+      "estado": "Puebla"
+    },
+    {
+      "nombre": "Federica Davalos Peluche",
+      "edad": 45,
+      "ciudad": "Sn Martin Texmelucan",
+      "estado": "Puebla"
+    },
+    {
+      "nombre": "Luvico Peluche",
+      "edad": 45,
+      "ciudad": "Sn Martin Texmelucan",
+      "estado": "Puebla"
+    },
+    {
+      "nombre": "Bibi Peluche",
+      "edad": 45,
+      "ciudad": "Sn Martin Texmelucan",
+      "estado": "Puebla"
+    },
+    {
+      "nombre": "Excelsa Peluche",
+      "edad": 45,
+      "ciudad": "Sn Martin Texmelucan",
+      "estado": "Puebla"
+    }
+  ]
+}
