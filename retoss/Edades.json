@@ -1,0 +1,34 @@
+{
+  "EdadesBD":[
+      {
+              "id":1,
+              "Nombre": "Adrian Hernandez",
+              "Edad":25,
+              "RFC": "RCDF870326"
+      },
+    {
+              "id":2,
+              "Nombre": "Noe Juarez",
+              "Edad":40,
+              "RFC": "BJHF80236"
+      },
+    {
+              "id":3,
+              "Nombre": "Brenda Tovar",
+              "Edad":17,
+              "RFC": "DVHG889826"
+      },
+    {
+              "id":4,
+              "Nombre": "Hugo Guzman",
+              "Edad":12,
+              "RFC": "NSDE349594"
+      },
+    {
+              "id":5,
+              "Nombre": "Ivan Juarez",
+              "Edad":62,
+              "RFC": "VECJ880326"
+      }
+  ]
+}
