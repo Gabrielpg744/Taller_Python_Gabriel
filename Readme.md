@@ -63,5 +63,5 @@ Reto | Publicado | Entrega  | Título            | Calificación| Retroalimentac
 ---- |-----------|----------|-------------------|-------------|--------------------------------|
   1  | 12/03/25  | 16/03/25 | Adivina el número | 70          | No incluiste el ciclo          |
   2  | 19/03/25  | 23/03/25 | Inventario        | 100         | Buen trabajo                   |
-  3  | 26/03/25  | 31/03/25 | Gestión Biblioteca|             |                                |
+  3  | 26/03/25  | 31/03/25 | Gestión Biblioteca| 80          | No hemos usado listas de listas|
 
